@@ -1,2 +1,12 @@
-# Python_Data_Science_Numpy
-Explorando o pacote numpy
+# Data Science - Numpy
+---
+## Tutoriais explicativos e práticos sobre Python para DS
+---
+
+- Glossário:
+  - Introdução ao python;
+  - Características básicas da linguagem;
+  - Trabalhando com listas;
+  - Estruturas de repetição e condicionais;
+  - Numpy básico.
+
